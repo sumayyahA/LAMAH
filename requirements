@@ -1,0 +1,12 @@
+libgl1
+libglib2.0-0
+ibm-watson-machine-learning==1.0.57
+opencv-python-headless==4.5.5.64
+ultralytics==8.0.3
+streamlit==1.18.1
+python-bidi==0.4.2
+gTTS==2.2.3
+Pillow==9.3.0
+numpy==1.23.5
+requests==2.28.1
+arabic-reshaper @ git+https://github.com/mpcabd/python-arabic-reshaper.git
